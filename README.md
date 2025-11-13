@@ -18,7 +18,7 @@ Tenho facilidade em aprender, sou proativa e trabalho com diversas tecnologias â
 ### ðŸ’» **Linguagens de ProgramaÃ§Ã£o**
 <p align="center">
 
-  <span style="background-color:#00264D; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+  <span style="background-color:#006FAF; color:white; padding:6px 12px; border-radius:8px; border:1px solid #2E2E2E;margin:4px; display:inline-flex; align-items:center;">
     <img src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/09/what-is-SAP-ABAP-Programming.jpg" width="22" style="margin-right:6px; border-radius:4px;" /> ABAP
   </span>
 
@@ -82,7 +82,7 @@ Tenho facilidade em aprender, sou proativa e trabalho com diversas tecnologias â
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22" style="margin-right:6px;" /> Docker
   </span>
   <span style="background-color:#FF9900; color:black; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
-    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://hermes.dio.me/articles/cover/228e1981-2776-497b-8eec-984a427bc68c.png)" width="22" style="margin-right:6px;" /> AWS
+    <img src="https://hermes.dio.me/articles/cover/228e1981-2776-497b-8eec-984a427bc68c.png" width="22" style="margin-right:6px;" /> AWS
   </span>
   <span style="background-color:#F05032; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="margin-right:6px;" /> Git
