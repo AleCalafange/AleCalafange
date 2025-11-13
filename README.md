@@ -15,18 +15,41 @@ Tenho facilidade em aprender, sou proativa e trabalho com diversas tecnologias �
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
-
 ### 💻 **Linguagens de Programação**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/abap/abap-original.svg" width="40" title="ABAP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" title="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+<p align="center">
+
+  <span style="background-color:#00264D; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/abap/abap-original.svg" width="20" style="margin-right:6px;" /> ABAP
+  </span>
+
+  <span style="background-color:#ED8B00; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" style="margin-right:6px;" /> Java
+  </span>
+
+  <span style="background-color:#3776AB; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" style="margin-right:6px;" /> Python
+  </span>
+
+  <span style="background-color:#00ADD8; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" style="margin-right:6px;" /> Go
+  </span>
+
+  <span style="background-color:#F7DF1E; color:black; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" style="margin-right:6px;" /> JavaScript
+  </span>
+
+  <span style="background-color:#3178C6; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" style="margin-right:6px;" /> TypeScript
+  </span>
+
+  <span style="background-color:#339933; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" style="margin-right:6px;" /> Node.js
+  </span>
+
+  <span style="background-color:#000000; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" style="margin-right:6px;" /> Next.js
+  </span>
+
 </p>
 
 ### 🎨 **Front-end**
@@ -39,7 +62,7 @@ Tenho facilidade em aprender, sou proativa e trabalho com diversas tecnologias �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
 </p>
 
-### ⚙️ **Outras Ferramentas**
+### ⚙️ **Tecnologias e Ferramentas**
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
