@@ -82,7 +82,7 @@ Tenho facilidade em aprender, sou proativa e trabalho com diversas tecnologias â
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22" style="margin-right:6px;" /> Docker
   </span>
   <span style="background-color:#FF9900; color:black; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="22" style="margin-right:6px;" /> AWS
+    <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg](https://hermes.dio.me/articles/cover/228e1981-2776-497b-8eec-984a427bc68c.png)" width="22" style="margin-right:6px;" /> AWS
   </span>
   <span style="background-color:#F05032; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="margin-right:6px;" /> Git
@@ -129,7 +129,7 @@ Tenho facilidade em aprender, sou proativa e trabalho com diversas tecnologias â
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="22" style="margin-right:6px;" /> SQL Server
   </span>
   <span style="background-color:#0FAAFF; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SAP_HANA_logo.svg" width="28" style="margin-right:6px;" /> SAP HANA
+    <img src="https://www.suse.com/c/wp-content/uploads/2018/10/SAP_HANA-768x256.jpg" width="28" style="margin-right:6px;" /> SAP HANA
   </span>
 </p>
 
