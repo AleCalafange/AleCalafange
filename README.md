@@ -53,41 +53,86 @@ Tenho facilidade em aprender, sou proativa e trabalho com diversas tecnologias �
 </p>
 
 ### 🎨 **Front-end**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" title="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" title="WordPress"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+<p align="center">
+  <span style="background-color:#E34F26; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="22" style="margin-right:6px;" /> HTML5
+  </span>
+  <span style="background-color:#1572B6; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="22" style="margin-right:6px;" /> CSS3
+  </span>
+  <span style="background-color:#DD0031; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="22" style="margin-right:6px;" /> Angular
+  </span>
+  <span style="background-color:#61DAFB; color:black; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="22" style="margin-right:6px;" /> React
+  </span>
+  <span style="background-color:#21759B; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="22" style="margin-right:6px;" /> WordPress
+  </span>
+  <span style="background-color:#F24E1E; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="22" style="margin-right:6px;" /> Figma
+  </span>
 </p>
+
+---
 
 ### ⚙️ **Tecnologias e Ferramentas**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="50" title="Eclipse IDE"/>
+<p align="center">
+  <span style="background-color:#2496ED; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="22" style="margin-right:6px;" /> Docker
+  </span>
+  <span style="background-color:#FF9900; color:black; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="22" style="margin-right:6px;" /> AWS
+  </span>
+  <span style="background-color:#F05032; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="22" style="margin-right:6px;" /> Git
+  </span>
+  <span style="background-color:#181717; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="22" style="margin-right:6px;" /> GitHub
+  </span>
+  <span style="background-color:#007ACC; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="22" style="margin-right:6px;" /> VS Code
+  </span>
+  <span style="background-color:#2C2255; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="22" style="margin-right:6px;" /> Eclipse IDE
+  </span>
 </p>
 
-### 🏢 ERPs e Sistemas
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="80" title="SAP S/4HANA"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Totvs_logo.svg" width="80" title="TOTVS RM"/>
-  <img src="https://seeklogo.com/images/L/logix-logo-3FE90E8888-seeklogo.com.png" width="80" title="TOTVS LOGIX"/>
+---
+
+### 🏢 **ERPs e Sistemas**
+<p align="center">
+  <span style="background-color:#0FAAFF; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="28" style="margin-right:6px;" /> SAP S/4HANA
+  </span>
+  <span style="background-color:#004E8A; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/product/product_image/21301/totvs-rm.png" width="28" style="margin-right:6px; border-radius:4px;" /> TOTVS RM
 </p>
+
+---
 
 ### 🗄️ **Banco de Dados**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" title="Oracle"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SAP_HANA_logo.svg" width="80" title="SAP HANA"/>
+<p align="center">
+  <span style="background-color:#336791; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="22" style="margin-right:6px;" /> PostgreSQL
+  </span>
+  <span style="background-color:#4479A1; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="22" style="margin-right:6px;" /> MySQL
+  </span>
+  <span style="background-color:#F80000; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="22" style="margin-right:6px;" /> Oracle
+  </span>
+  <span style="background-color:#003B57; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="22" style="margin-right:6px;" /> SQLite
+  </span>
+  <span style="background-color:#CC2927; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="22" style="margin-right:6px;" /> SQL Server
+  </span>
+  <span style="background-color:#0FAAFF; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/SAP_HANA_logo.svg" width="28" style="margin-right:6px;" /> SAP HANA
+  </span>
 </p>
+
 
 ---
 
