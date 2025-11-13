@@ -19,7 +19,7 @@ Tenho facilidade em aprender, sou proativa e trabalho com diversas tecnologias â
 <p align="center">
 
   <span style="background-color:#00264D; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/abap/abap-original.svg" width="20" style="margin-right:6px;" /> ABAP
+    <img src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/09/what-is-SAP-ABAP-Programming.jpg" width="22" style="margin-right:6px; border-radius:4px;" /> ABAP
   </span>
 
   <span style="background-color:#ED8B00; color:white; padding:6px 12px; border-radius:8px; margin:4px; display:inline-flex; align-items:center;">
